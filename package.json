@@ -1,4 +1,18 @@
 {
+  "name": "loganbesecker",
+  "version": "1.0.0",
+  "description": "LoganBesecker.com - personal site and live product directory, served by Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lbesecker195/LoganBesecker.git"
+  },
+  "homepage": "https://loganbesecker.com/",
+  "author": "Logan Besecker <me@LoganBesecker.com>",
+  "license": "Apache-2.0",
   "dependencies": {
     "express": "^5.2.1"
   }
