@@ -55,6 +55,11 @@ app.get('/', (req, res) => {
         <a href="https://csuitefinder.com" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">CSuiteFinder</a>
         <a href="https://www.csuitnecessities.com" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">CSuitNecessities</a>
         <a href="https://seriouslysimpleanalytics.com" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">SeriouslySimpleAnalytics</a>
+        <a href="https://ai.mcpharbor.dev/" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">MCP Registry</a>
+        <a href="https://www.rnews1.com/" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">rnews1</a>
+        <a href="https://ai.agentemaillist.com/" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">Agent Email List</a>
+        <a href="https://piecework.loganbesecker.com/" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">Piecework</a>
+        <a href="https://claudeslist.loganbesecker.com/" target="_blank" rel="noopener noreferrer" class="hover:text-sky-700 transition whitespace-nowrap">ClaudesList</a>
         <a href="#hire" class="hover:text-sky-700 transition text-sky-700 bg-sky-50 border border-sky-200 px-3 py-1 rounded-full whitespace-nowrap">Hire Me</a>
       </nav>
     </div>
@@ -93,8 +98,54 @@ app.get('/', (req, res) => {
       </div>
     </section>
 
+    <!-- SECTION 2: LUCKY NUMBERS -->
+    <section id="lucky" class="space-y-8">
+      <div>
+        <div class="inline-block text-xs font-bold uppercase tracking-widest text-violet-700 bg-violet-50 px-3 py-1 rounded-full border border-violet-200 mb-2">
+          04 // Lucky Numbers
+        </div>
+        <h2 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">Personal Lucky Numbers</h2>
+        <p class="mt-2 text-slate-500 text-base max-w-2xl">A curated set of numbers I keep close — for games, fun, and good fortune.</p>
+      </div>
 
-    <!-- SECTION 2: PRODUCTS -->
+      <div class="bg-white border border-slate-200 rounded-2xl p-8 sm:p-10 shadow-sm">
+        <div class="flex flex-wrap gap-2.5">
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">0</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">2</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">3</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">4</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">5</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">6</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">7</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">8</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">9</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">10</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">11</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">12</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">13</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">14</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">17</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">22</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">23</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">24</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">25</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">26</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">27</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">topMill</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">216</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">195</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">41</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1119</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">193</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1193</span>
+            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">111993</span>
+        </div>
+      </div>
+    </section>
+
+
+    <!-- SECTION 3: PRODUCTS -->
     <section id="products" class="space-y-8">
       <div>
         <div class="inline-block text-xs font-bold uppercase tracking-widest text-indigo-700 bg-indigo-50 px-3 py-1 rounded-full border border-indigo-200 mb-2">
@@ -157,176 +208,111 @@ app.get('/', (req, res) => {
           </article>
         </a>
 
-      </div>
-    </section>
 
-    <!-- SECTION 3: HOSTED APPS -->
-    <section id="apps" class="space-y-8">
-      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
-        <div>
-          <div class="inline-block text-xs font-bold uppercase tracking-widest text-amber-700 bg-amber-50 px-3 py-1 rounded-full border border-amber-200 mb-2">
-            03 // Application Directory
-          </div>
-          <h2 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">Interactive Suite &amp; Games</h2>
-        </div>
-      </div>
-
-      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        
-        <!-- Cloud Bill Billionaire -->
-        <a href="/Apps/Cloud-Bill-Billionaire.html" class="group block h-full no-underline">
-          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-100">
-            <div>
-              <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-cyan-50 text-2xl rounded-lg border border-cyan-100">☁️</div>
-                <span class="text-xs font-semibold text-cyan-700 bg-cyan-50 px-2.5 py-1 rounded-full border border-cyan-200">Game</span>
-              </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-cyan-700 transition-colors">Cloud Bill Billionaire</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Build cloud infrastructure, scale user feature revenue, optimize hosting expenses, and manage burn rates.</p>
-            </div>
-            <div class="flex items-center text-sm font-semibold text-cyan-700">
-              <span>Launch Application</span>
-              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
-            </div>
-          </article>
-        </a>
-
-        <!-- Job Search, the Game -->
-        <a href="/Apps/Job-Search-The-Game.html" class="group block h-full no-underline">
-          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-sky-400 hover:shadow-lg hover:shadow-sky-100">
-            <div>
-              <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-sky-50 text-2xl rounded-lg border border-sky-100">🎮</div>
-                <span class="text-xs font-semibold text-sky-700 bg-sky-50 px-2.5 py-1 rounded-full border border-sky-200">Gamified</span>
-              </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-sky-700 transition-colors">Job Search, the Game</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Navigate the job market, submit targeted applications, and survive the recruitment pipeline simulation.</p>
-            </div>
-            <div class="flex items-center text-sm font-semibold text-sky-700">
-              <span>Launch Application</span>
-              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
-            </div>
-          </article>
-        </a>
-
-        <!-- Git Rebase Survivor -->
-        <a href="/Apps/Git-Rebase-Survivor-Merge-Hell.html" class="group block h-full no-underline">
-          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-amber-400 hover:shadow-lg hover:shadow-amber-100">
-            <div>
-              <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-amber-50 text-2xl rounded-lg border border-amber-100">🔀</div>
-                <span class="text-xs font-semibold text-amber-700 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200">Game</span>
-              </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-amber-700 transition-colors">Git Rebase Survivor</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Resolve high-stress merge conflicts, manage terminal operations, and keep CI/CD runner costs down.</p>
-            </div>
-            <div class="flex items-center text-sm font-semibold text-amber-700">
-              <span>Launch Application</span>
-              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
-            </div>
-          </article>
-        </a>
-
-        <!-- Log Stream Regex Analyzer -->
-        <a href="/Apps/Log-Stream-Regex-Analyzer.html" class="group block h-full no-underline">
+        <a href="https://ai.mcpharbor.dev/" target="_blank" rel="noopener noreferrer" class="group block h-full no-underline">
           <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-emerald-400 hover:shadow-lg hover:shadow-emerald-100">
             <div>
               <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-emerald-50 text-2xl rounded-lg border border-emerald-100">🔍</div>
-                <span class="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-full border border-emerald-200">Utility</span>
+                <div class="w-12 h-12 flex items-center justify-center bg-emerald-50 text-xl font-black text-emerald-700 rounded-lg border border-emerald-100">MR</div>
+                <span class="text-xs font-semibold text-emerald-700 bg-emerald-50 px-2.5 py-1 rounded-full border border-emerald-200">Directory</span>
               </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-emerald-700 transition-colors">Log Stream Regex Analyzer</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Parse, filter, and extract insights from live log streams using custom regular expressions.</p>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-emerald-700 transition-colors">MCP Registry</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">Browse and publish Model Context Protocol servers. A searchable registry AI agents can query directly over MCP.</p>
             </div>
             <div class="flex items-center text-sm font-semibold text-emerald-700">
-              <span>Launch Application</span>
+              <span>Visit site</span>
               <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
             </div>
           </article>
         </a>
 
-        <!-- SQLite Parquet Explorer -->
-        <a href="/Apps/SQLite-Parquet-Explorer.html" class="group block h-full no-underline">
-          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-indigo-400 hover:shadow-lg hover:shadow-indigo-100">
-            <div>
-              <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-indigo-50 text-2xl rounded-lg border border-indigo-100">🗄️</div>
-                <span class="text-xs font-semibold text-indigo-700 bg-indigo-50 px-2.5 py-1 rounded-full border border-indigo-200">Utility</span>
-              </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-indigo-700 transition-colors">SQLite Parquet Explorer</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Query schema layouts and analyze columnar Parquet files directly alongside browser-based SQLite instances.</p>
-            </div>
-            <div class="flex items-center text-sm font-semibold text-indigo-700">
-              <span>Launch Application</span>
-              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
-            </div>
-          </article>
-        </a>
-
-        <!-- Vim Speedrun -->
-        <a href="/Apps/Vim-Speedrun.html" class="group block h-full no-underline">
+        <a href="https://www.rnews1.com/" target="_blank" rel="noopener noreferrer" class="group block h-full no-underline">
           <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-rose-400 hover:shadow-lg hover:shadow-rose-100">
             <div>
               <div class="flex items-center justify-between mb-4">
-                <div class="w-12 h-12 flex items-center justify-center bg-rose-50 text-2xl rounded-lg border border-rose-100">⌨️</div>
-                <span class="text-xs font-semibold text-rose-700 bg-rose-50 px-2.5 py-1 rounded-full border border-rose-200">Game</span>
+                <div class="w-12 h-12 flex items-center justify-center bg-rose-50 text-xl font-black text-rose-700 rounded-lg border border-rose-100">RN</div>
+                <span class="text-xs font-semibold text-rose-700 bg-rose-50 px-2.5 py-1 rounded-full border border-rose-200">Newsletter</span>
               </div>
-              <h3 class="text-xl font-bold text-slate-900 mb-2 group-hover:text-rose-700 transition-colors">Vim Speedrun</h3>
-              <p class="text-sm text-slate-500 leading-relaxed mb-6">Master modal navigation, keys, motions, and speed editing mechanics against time trials.</p>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-rose-700 transition-colors">rnews1.com</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">Real news, made for one reader at a time. Original reporting, chosen and written per subscriber, in a dozen languages.</p>
             </div>
             <div class="flex items-center text-sm font-semibold text-rose-700">
-              <span>Launch Application</span>
+              <span>Visit site</span>
               <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
             </div>
           </article>
         </a>
 
-      </div>
-    </section>
+        <a href="https://ai.agentemaillist.com/" target="_blank" rel="noopener noreferrer" class="group block h-full no-underline">
+          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-violet-400 hover:shadow-lg hover:shadow-violet-100">
+            <div>
+              <div class="flex items-center justify-between mb-4">
+                <div class="w-12 h-12 flex items-center justify-center bg-violet-50 text-xl font-black text-violet-700 rounded-lg border border-violet-100">AE</div>
+                <span class="text-xs font-semibold text-violet-700 bg-violet-50 px-2.5 py-1 rounded-full border border-violet-200">API</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-violet-700 transition-colors">AgentEmailList.com</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">A mail API built for autonomous agents. Send and receive real email over a plain JSON interface, no SMTP wrangling.</p>
+            </div>
+            <div class="flex items-center text-sm font-semibold text-violet-700">
+              <span>Visit site</span>
+              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
+            </div>
+          </article>
+        </a>
 
-    <!-- SECTION 3: LUCKY NUMBERS -->
-    <section id="lucky" class="space-y-8">
-      <div>
-        <div class="inline-block text-xs font-bold uppercase tracking-widest text-violet-700 bg-violet-50 px-3 py-1 rounded-full border border-violet-200 mb-2">
-          04 // Lucky Numbers
-        </div>
-        <h2 class="text-2xl sm:text-3xl font-extrabold tracking-tight text-slate-900">Personal Lucky Numbers</h2>
-        <p class="mt-2 text-slate-500 text-base max-w-2xl">A curated set of numbers I keep close — for games, fun, and good fortune.</p>
-      </div>
+        <a href="https://piecework.loganbesecker.com/" target="_blank" rel="noopener noreferrer" class="group block h-full no-underline">
+          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-cyan-400 hover:shadow-lg hover:shadow-cyan-100">
+            <div>
+              <div class="flex items-center justify-between mb-4">
+                <div class="w-12 h-12 flex items-center justify-center bg-cyan-50 text-xl font-black text-cyan-700 rounded-lg border border-cyan-100">PW</div>
+                <span class="text-xs font-semibold text-cyan-700 bg-cyan-50 px-2.5 py-1 rounded-full border border-cyan-200">Marketplace</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-cyan-700 transition-colors">Piecework</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">A marketplace for AI work paid by the piece, settled in sats. Post a task, get it done, pay per unit delivered.</p>
+            </div>
+            <div class="flex items-center text-sm font-semibold text-cyan-700">
+              <span>Visit site</span>
+              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
+            </div>
+          </article>
+        </a>
 
-      <div class="bg-white border border-slate-200 rounded-2xl p-8 sm:p-10 shadow-sm">
-        <div class="flex flex-wrap gap-2.5">
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">0</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">2</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">3</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">4</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">5</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">6</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">7</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">8</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">9</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">10</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">11</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">12</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">13</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">14</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">22</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">23</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">24</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">25</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">26</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">27</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">topMill</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">216</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">195</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">41</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">11</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1119</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">193</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">1193</span>
-            <span class="inline-flex items-center justify-center min-w-[2.75rem] h-11 px-3 rounded-full bg-sky-50 text-sky-800 font-semibold text-sm border border-sky-200">111993</span>
-        </div>
+
+        <a href="/Apps/" class="group block h-full no-underline">
+          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-amber-400 hover:shadow-lg hover:shadow-amber-100">
+            <div>
+              <div class="flex items-center justify-between mb-4">
+                <div class="w-12 h-12 flex items-center justify-center bg-amber-50 text-xl font-black text-amber-700 rounded-lg border border-amber-100">AD</div>
+                <span class="text-xs font-semibold text-amber-700 bg-amber-50 px-2.5 py-1 rounded-full border border-amber-200">Free Tools</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-amber-700 transition-colors">App Directory</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">A growing set of free browser tools and developer games &mdash; regex log analysis, SQLite and Parquet exploration, a Vim speedrun, and more. No signup, nothing to install.</p>
+            </div>
+            <div class="flex items-center text-sm font-semibold text-amber-700">
+              <span>Open the directory</span>
+              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
+            </div>
+          </article>
+        </a>
+
+
+        <a href="https://claudeslist.loganbesecker.com/" target="_blank" rel="noopener noreferrer" class="group block h-full no-underline">
+          <article class="h-full flex flex-col justify-between bg-white border border-slate-200 rounded-xl p-6 transition-all duration-200 hover:-translate-y-1 hover:border-teal-400 hover:shadow-lg hover:shadow-teal-100">
+            <div>
+              <div class="flex items-center justify-between mb-4">
+                <div class="w-12 h-12 flex items-center justify-center bg-teal-50 text-xl font-black text-teal-700 rounded-lg border border-teal-100">CL</div>
+                <span class="text-xs font-semibold text-teal-700 bg-teal-50 px-2.5 py-1 rounded-full border border-teal-200">Marketplace</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-1 group-hover:text-teal-700 transition-colors">ClaudesList</h3>
+              <p class="text-sm text-slate-500 leading-relaxed mb-6">Classifieds written for AI agents. Post and browse listings in a structured format agents can read, search and act on directly.</p>
+            </div>
+            <div class="flex items-center text-sm font-semibold text-teal-700">
+              <span>Visit site</span>
+              <span class="ml-1.5 transition-transform duration-200 group-hover:translate-x-1">&rarr;</span>
+            </div>
+          </article>
+        </a>
+
       </div>
     </section>
 
